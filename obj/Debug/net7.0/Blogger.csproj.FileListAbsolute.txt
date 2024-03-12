@@ -73,3 +73,4 @@ C:\Users\HP\Documents\Post-Coding\Blogger\obj\Debug\net7.0\refint\Blogger.dll
 C:\Users\HP\Documents\Post-Coding\Blogger\obj\Debug\net7.0\Blogger.pdb
 C:\Users\HP\Documents\Post-Coding\Blogger\obj\Debug\net7.0\Blogger.genruntimeconfig.cache
 C:\Users\HP\Documents\Post-Coding\Blogger\obj\Debug\net7.0\ref\Blogger.dll
+C:\Users\HP\Documents\Post-Coding\Blogger\obj\Debug\net7.0\Blogger.sourcelink.json
